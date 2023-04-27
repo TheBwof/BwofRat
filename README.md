@@ -45,7 +45,7 @@ A cloud based remote android managment suite, powered by NodeJS
 7. `git clone https://github.com/TheBwof/BwofRat`
 8. `apt install nodejs -y`
 9. `cd`
-10. `cd haxRat/server`
+10. `cd BwofRat/server`
 11. `npm install ` show any error run: `rm package-lock.json` then `npm install`
 12. `node index.js`
 13. `http://localhost:22533`
