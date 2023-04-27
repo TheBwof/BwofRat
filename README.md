@@ -53,9 +53,9 @@ A cloud based remote android managment suite, powered by NodeJS
 ### For password setup go to BwofRat/server/includes then follow roll bellow here
 14. `nano maindb.json`
 15. `open browser and search and create hash password` `https://www.md5hashgenerator.com/`
-16.Setup `user && password` and Enjon 😉
+16. Setup `user && password` and Enjon 😉
 
-7. In your browser navigate to `http://<SERVER IP>:22533` & Login with default username and password ( By default server will run on localhost and to make a client APP you can use [PORTMAP](https://portmap.io) to access APP on wide area network , check below for demo to setup haxRAT with PORTMAP.)
+17. In your browser navigate to `http://<SERVER IP>:22533` & Login with default username and password ( By default server will run on localhost and to make a client APP you can use [PORTMAP](https://portmap.io) to access APP on wide area network , check below for demo to setup haxRAT with PORTMAP.)
 
 ### For default PASSWORD [CLICK HERE](https://facebook.com/fahimahamed24)
 ### This video contains instructions for getting password [CLICK HERE](https://facebook.com/fahimahamed24)
