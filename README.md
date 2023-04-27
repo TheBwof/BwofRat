@@ -57,8 +57,8 @@ A cloud based remote android managment suite, powered by NodeJS
 
 17. In your browser navigate to `http://<SERVER IP>:22533` & Login with default username and password ( By default server will run on localhost and to make a client APP you can use [PORTMAP](https://portmap.io) to access APP on wide area network , check below for demo to setup haxRAT with PORTMAP.)
 
-### For default PASSWORD [CLICK HERE](https://facebook.com/fahimahamed24)
-### This video contains instructions for getting password [CLICK HERE](https://facebook.com/fahimahamed24)
+### For default PASSWORD [CLICK HERE](https://telegra.ph/Default-Password-04-27)
+### You Need to Owner Help [CLICK HERE](https://facebook.com/fahimahamed24)
 
 
 
