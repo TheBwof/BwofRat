@@ -42,7 +42,7 @@ A cloud based remote android managment suite, powered by NodeJS
 4. `cd Apkmod`
 5. `bash setup.sh`
 6. `cd ..`
-7. `git clone https://github.com/TheBwof/BwofRat.git`
+7. `git clone https://github.com/TheBwof/BwofRat`
 8. `apt install nodejs -y`
 9. `cd`
 10. `cd haxRat/server`
